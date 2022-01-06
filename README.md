@@ -1,4 +1,4 @@
-# Cancer diagnostic
+# Cancer diagnosis
 ### Breast Cancer Wisconsin (Diagnostic) Data Set <br>
 In this personal project, I will classify whether the breast tissues are benign or malignant
 ### Brief overview: 
