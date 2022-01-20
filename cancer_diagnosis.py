@@ -187,7 +187,7 @@ def classify(test_size,var,click):
         plt.ylabel('True label')
         plt.xlabel('Predicted label')  
         fig = plt.show() 
-        return fig, click==None    
+        return fig    
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)
