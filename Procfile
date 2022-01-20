@@ -1,0 +1,1 @@
+web: gunicorn cancer_diagnosis:server
