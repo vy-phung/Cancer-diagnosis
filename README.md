@@ -7,5 +7,6 @@ In this personal project, the main purpose is classifying benign or malignant of
 3. Classification by using K-nearest neighbor (KNN) and Support Vector Machines (SVM) 
 4. Model Evaluation 
 
-All of the steps on brief overview are done in Google Colab and saved in .ipynb file
+All of the steps of brief overview are done on <a href="https://github.com/vy-phung/Cancer-diagnosis/blob/master/Breast_Cancer_Wisconsin_(Diagnostic)_Data_Set.ipynb">Google Colab</a> <br>
+I also create a website for interactive visualization <a href="https://cancer-plotly.herokuapp.com/">here</a> 
 
